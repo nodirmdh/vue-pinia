@@ -1,5 +1,7 @@
-# vue-pinia
+# Vue 3 + Vite
 
-Приложение сделанное на pinia + composition API
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-Pinia, легковесная библиотека управления состояниями для Vue. js, приобрела популярность в последнее время. Она использует новую систему реактивности во Vue 3 для создания интуитивно понятной и полностью типизированной библиотеки управления состояниями
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
